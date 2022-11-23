@@ -1,4 +1,4 @@
-# HCL_RestAPI
+# RestAPI
 Steps to Execute 
 1. Open the code in IntelliJ Idea editor
 2. Install Java and Maven dependencies
